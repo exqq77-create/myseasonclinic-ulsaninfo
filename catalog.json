@@ -1218,7 +1218,13 @@
    "body_chars": 1399,
    "sha256_16": "bc94dd1bd36b7a82",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "ulsan-forehead-filler-21",
+     "date": "2026-10-17",
+     "note": "원문의 재료 물성·곡선 사실 참고, 재료 성질과 목적 짝짓기 각도(원문 1399자, 새 정보 보강)"
+    }
+   ]
   },
   {
    "id": "100",
