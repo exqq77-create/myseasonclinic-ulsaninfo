@@ -1716,7 +1716,13 @@
    "body_chars": 2324,
    "sha256_16": "70759aeb863fee8b",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "ulsan-pigment-laser-22",
+     "date": "2026-10-17",
+     "note": "반영구 눈썹·입술 라인 잉크 제거 상담 각도(원문 반영구 언급 부분만 사용, 170은 여드름·290 등 주제 불일치로 제외)"
+    }
+   ]
   },
   {
    "id": "138",
@@ -2376,7 +2382,13 @@
    "body_chars": 2281,
    "sha256_16": "55850c85ba86ecad",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "ulsan-lip-filler-22",
+     "date": "2026-10-17",
+     "note": "입술 습관·말·식사 패턴과 유지감, 초기 이물감 적응 각도(유지 기간 수치 제외)"
+    }
+   ]
   },
   {
    "id": "188",
