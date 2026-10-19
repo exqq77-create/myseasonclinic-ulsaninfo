@@ -2310,7 +2310,13 @@
    "body_chars": 1532,
    "sha256_16": "ecdd12da6d33e94c",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "ulsan-ultherapy-38",
+     "date": "2026-10-20",
+     "note": "시술 후 볼륨 감소·얼굴선 변화 걱정을 얼굴 유형·샷 수 설명·경과 관찰 각도로 재구성(깊이 mm·유지기간 수치 제외)"
+    }
+   ]
   },
   {
    "id": "168",
