@@ -2554,7 +2554,13 @@
    "body_chars": 1280,
    "sha256_16": "96e48bb5f7334619",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "ulsan-lip-filler-37",
+     "date": "2026-10-19",
+     "note": "후기 해석과 내 입술 특징 정리 각도(원문의 질문글 경험담 제거)"
+    }
+   ]
   },
   {
    "id": "185",
@@ -2914,7 +2920,13 @@
    "body_chars": 2174,
    "sha256_16": "46ae67d728236e34",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "ulsan-lifting-filler-37",
+     "date": "2026-10-19",
+     "note": "표정별 팔자주름 유형 구분 각도"
+    }
+   ]
   },
   {
    "id": "208",
