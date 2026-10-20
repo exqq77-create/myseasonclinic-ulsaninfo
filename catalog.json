@@ -350,7 +350,13 @@
    "body_chars": 1960,
    "sha256_16": "0dd6f9d2309cb4cc",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "ulsan-skinbooster-44",
+     "date": "2026-10-20",
+     "note": "보톡스 시술 후 관리 각도(수치·성분 설명 제외)"
+    }
+   ]
   },
   {
    "id": "026",
@@ -1944,7 +1950,13 @@
    "body_chars": 1463,
    "sha256_16": "e43f7f4cf066efa9",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "ulsan-ultherapy-44",
+     "date": "2026-10-20",
+     "note": "샷 수보다 깊이·부위별 강도 질문 각도(업체 홍보 문구 제외)"
+    }
+   ]
   },
   {
    "id": "140",
