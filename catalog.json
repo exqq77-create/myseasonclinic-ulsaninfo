@@ -1129,7 +1129,13 @@
    "body_chars": 2202,
    "sha256_16": "62a842edb77997ac",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "ulsan-pigment-laser-44",
+     "date": "2026-10-20",
+     "note": "여드름 자국 색소와 집에서 하는 스크럽·각질 제거 한계 각도"
+    }
+   ]
   },
   {
    "id": "082",
