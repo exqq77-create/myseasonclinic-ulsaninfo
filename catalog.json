@@ -3400,7 +3400,13 @@
    "body_chars": 1378,
    "sha256_16": "dabcad841bffc693",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "ulsan-ultherapy-46",
+     "date": "2026-10-21",
+     "note": "울쎄라와 리프팅 필러 차이 비교 각도(효과 단정 제외)"
+    }
+   ]
   },
   {
    "id": "229",
