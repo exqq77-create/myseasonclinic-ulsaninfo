@@ -348,7 +348,13 @@
    "body_chars": 2088,
    "sha256_16": "a11dcd9b49529c10",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "ulsan-lifting-filler-53",
+     "date": "2026-10-21",
+     "note": "관자·볼 꺼짐 측면 윤곽 각도. 원문의 피부층 구조·좌우 대칭·장비 병행 사실 사용, 4~6개월 유지 수치는 제외"
+    }
+   ]
   },
   {
    "id": "024",
