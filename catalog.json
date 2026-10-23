@@ -387,7 +387,13 @@
    "body_chars": 1919,
    "sha256_16": "a10329afabe14ddf",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "ulsan-lifting-filler-65",
+     "date": "2026-10-23",
+     "note": "풀페이스필러 원문(자동분류 lifting-filler; 세르프 원문 030/150은 주제 불일치로 제외). T존/U존 구분·소량 분산·필러 종류/유지 개념 각도로 재구성. 원문의 효과 단정·결과 표현 제외"
+    }
+   ]
   },
   {
    "id": "025",
