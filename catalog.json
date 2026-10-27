@@ -2852,7 +2852,13 @@
    "body_chars": 1571,
    "sha256_16": "ee0eb4f7a762edb0",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "ulsan-lifting-filler-99",
+     "date": "2026-10-28",
+     "note": "실리프팅: 다이어트 뒤 남은 처짐, 직장인 일정 기준으로 회복 기간 vs 변화 시점 구분, 실 종류·흡수·제거·염증 질문, 절개 수술 비교. 수치 제외"
+    }
+   ]
   },
   {
    "id": "160",
