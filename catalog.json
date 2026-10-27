@@ -564,7 +564,13 @@
    "body_chars": 1927,
    "sha256_16": "b4fa8a2d010bf74a",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "ulsan-pigment-laser-99",
+     "date": "2026-10-28",
+     "note": "제모 방법(면도·족집게·크림·레이저) 비교와 상담 확인 항목 각도로 재구성; 5~10회 등 수치는 제외"
+    }
+   ]
   },
   {
    "id": "030",
