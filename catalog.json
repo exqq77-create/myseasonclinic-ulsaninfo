@@ -1204,7 +1204,13 @@
    "body_chars": 1503,
    "sha256_16": "173cb2a8c6c77b6c",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "ulsan-lifting-filler-106",
+     "date": "2026-10-28",
+     "note": "실 형태(바브·코그·메쉬·스크류)와 소재 선택 질문 각도. 원문 통증·시술시간 수치 제외. 분량 1691자"
+    }
+   ]
   },
   {
    "id": "065",
