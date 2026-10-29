@@ -1559,7 +1559,13 @@
    "body_chars": 1450,
    "sha256_16": "8f49d04b6f3abcca",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "ulsan-lifting-filler-115",
+     "date": "2026-10-30",
+     "note": "얼굴 구조층(진피·피하지방·SMAS·유지인대)과 리프팅필러 개념을 상담 전 이해 각도로 재구성; 원장 이름 제거; 원문 대비 분량 90% 이상 유지"
+    }
+   ]
   },
   {
    "id": "080",
